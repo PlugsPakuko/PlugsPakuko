@@ -3,7 +3,6 @@
 ## 🚀 About Me
 
 - 💼 [Computer Enginnering Student, KMUTT, Thailand]
-- 🌐 [Your Personal Website or Portfolio (if applicable)]
 - 📫 How to reach me: [pakkawatk16@gmail.com]
 
 ## 🔧 Technologies & Tools
@@ -15,4 +14,6 @@
 <!---
 PlugsPakuko/PlugsPakuko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 🌐 [Your Personal Website or Portfolio (if applicable)]
+
 --->
