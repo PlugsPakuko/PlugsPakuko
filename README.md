@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @PlugsPakuko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @PlugsPakuko
+
+## 🚀 About Me
+
+- 💼 [Computer Enginnering Student, KMUTT, Thailand]
+- 🌐 [Your Personal Website or Portfolio (if applicable)]
+- 📫 How to reach me: [pakkawatk16@gmail.com]
+
+## 🔧 Technologies & Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlugsPakuko&show_icons=true&theme=radical)
 
 <!---
 PlugsPakuko/PlugsPakuko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
