@@ -9,6 +9,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-terminal-white?style=plastic&logo=gnometerminal)
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlugsPakuko&show_icons=true&theme=radical)
 
