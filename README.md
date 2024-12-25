@@ -17,9 +17,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python)
 ![Joblib](https://img.shields.io/badge/Joblib-FFD700?style=flat-square)
+![Keras Tuner](https://img.shields.io/badge/Keras%20Tuner-FF6F00?style=flat-square&logo=keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy)
 ![Genetic Algorithms](https://img.shields.io/badge/-Genetic%20Algorithms-blue)
 ![PID Control](https://img.shields.io/badge/PID%20Control-00A896?style=flat-square)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlugsPakuko&show_icons=true&theme=radical)
