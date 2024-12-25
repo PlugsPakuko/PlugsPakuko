@@ -11,6 +11,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-terminal-white?style=plastic&logo=gnometerminal)
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-FFD700?style=flat-square)
+![Genetic Algorithms](https://img.shields.io/badge/-Genetic%20Algorithms-blue)
+![PID Control](https://img.shields.io/badge/PID%20Control-00A896?style=flat-square)
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlugsPakuko&show_icons=true&theme=radical)
 
