@@ -11,7 +11,7 @@
 
 <h4 align="left">I'm Plugs from KMUTT, Thailand<br>- 🔭 I’m working as a <strong>Computer Engineering Student</strong> | <strong>Cybersecurity  Enthusiast</strong> | <strong>AI Engineer</strong>  <br>- 📚 I'm currently learning <strong>Cybersecurity</strong>, <strong>Networking</strong> and some of <strong>AIOT Stuff</strong></h4>
 
-<h2 align="left">💻 Programming Language</h2>
+<h3 align="left">💻 Programming Language</h3>
 
 
 <div align="left">
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">📱 Development & Deployment</h2>
+<h3 align="left">📱 Development & Deployment</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h2 align="left">🚀 OS</h2>
+<h3 align="left">🚀 OS</h3>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h2 align="left">☁️ Utilities</h2>
+<h3 align="left">☁️ Utilities</h3>
 
 ###
 
