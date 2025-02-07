@@ -9,7 +9,7 @@
 <h1 align="left">🤓  About Me</h1>
 
 
-<h4 align="left">I'm Pakkawat@KMUTT</h4> <p><br>- 🔭 I’m working as a <strong>Computer Engineering Student</strong> | <strong>Cybersecurity  Enthusiast</strong> | <strong>AI Engineer</strong>  <br>- 📚 I'm currently learning <strong>Cybersecurity</strong>, <strong>Networking</strong> and some of <strong>AIOT Stuff</strong></p>
+<h4 align="left">I'm Pakkawat@KMUTT</h4> <p><br>• 🔭 I’m working as a <strong>Computer Engineering Student</strong> | <strong>Cybersecurity  Enthusiast</strong> | <strong>AI Engineer</strong>  <br>• 📚 I'm currently learning <strong>Cybersecurity</strong>, <strong>Networking</strong> and some of <strong>AIOT Stuff</strong></p>
 
 <h3 align="left">💻 Programming Language</h3>
 
