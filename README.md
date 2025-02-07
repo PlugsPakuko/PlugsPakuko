@@ -9,7 +9,7 @@
 <h1 align="left">🤓  About Me</h1>
 
 
-<h4 align="left">I'm Plugs from KMUTT, Thailand<br>- 🔭 I’m working as a <strong>Computer Engineering Student</strong> | <strong>Cybersecurity  Enthusiast</strong> | <strong>AI Engineer</strong>  <br>- 📚 I'm currently learning <strong>Cybersecurity</strong>, <strong>Networking</strong> and some of <strong>AIOT Stuff</strong></h4>
+<h4 align="left">I'm Plugs @KMUTT, Thailand<br>- 🔭 I’m working as a <strong>Computer Engineering Student</strong> | <strong>Cybersecurity  Enthusiast</strong> | <strong>AI Engineer</strong>  <br>- 📚 I'm currently learning <strong>Cybersecurity</strong>, <strong>Networking</strong> and some of <strong>AIOT Stuff</strong></h4>
 
 <h3 align="left">💻 Programming Language</h3>
 
