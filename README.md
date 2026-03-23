@@ -1,12 +1,7 @@
-<div align="center">
-  <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFuZHVtMWpjMzF4dGh1a3ZwZWF6azhnNmRmbTdjdHNvMXA2eDRxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
-</div>
-
-
 <h1 align="left">💫  About Me</h1>
 
 
-<h4 align="left">👋 I'm Pakkawat @ KMUTT 🏫</h4> <p> • 🔭 I’m a <strong>Computer Engineering Student</strong> | <strong>Infrastructure & Cybersecurity Enthusiast</strong> | <strong>AI Engineer</strong> <br> • 📚 Currently learning <strong>Cybersecurity</strong>, <strong>Data Engineering</strong>, and exploring <strong>AIoT</strong> technologies <br> • 📩 Contact me: <a href="mailto:Pakkawatk16@gmail.com">pakkawatk16@gmail.com</a> </p>
+<h4 align="left">👋 I'm Pakkawat </h4> <p> | <strong>Infrastructure & Cybersecurity Enthusiast</strong> | <strong>AI Engineer</strong> <br> • 📩 Contact me: <a href="mailto:Pakkawatk16@gmail.com">pakkawatk16@gmail.com</a> </p>
 
 <h3 align="left">💻 Programming Language</h3>
 
