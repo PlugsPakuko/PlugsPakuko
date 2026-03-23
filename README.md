@@ -36,9 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=PlugsPakuko&theme=discord&column=4&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PlugsPakuko&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="149" alt="languages graph"  />
-</div>
-
-###
