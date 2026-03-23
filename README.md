@@ -1,7 +1,7 @@
 <h1 align="left">💫  About Me</h1>
 
 
-<h4 align="left">👋 I'm Pakkawat </h4> <p> | <strong>Infrastructure & Cybersecurity Enthusiast</strong> | <strong>AI Engineer</strong> |  <br> • 📩 Contact me: <a href="mailto:Pakkawatk16@gmail.com">pakkawatk16@gmail.com</a> </p>
+<h3 align="left">👋 I'm Pakkawat </h4> <p> | <strong>Infrastructure & Cybersecurity Enthusiast</strong> | <strong>AI Engineer</strong> | </p>
 
 <h3 align="left">💻 Programming Language</h3>
 
