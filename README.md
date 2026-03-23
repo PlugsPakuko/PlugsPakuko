@@ -34,19 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
-  
-  
 </div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<br clear="both">
-
-###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=PlugsPakuko&theme=discord&column=4&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
