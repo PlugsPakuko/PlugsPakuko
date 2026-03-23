@@ -27,6 +27,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/kalilinux" height="50" alt="kali logo" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/fedora" height="50" alt="fedora logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
